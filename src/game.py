@@ -1,11 +1,3 @@
- #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  5 12:03:54 2022
-
-@author: hasti
-"""
-
 import pygame
 import os
 import numpy as np
